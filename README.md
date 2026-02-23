@@ -1,19 +1,27 @@
-# ense880-learning-journal
-Learning journal and research notes for ENSE880 – Agile Project Management (AUT)
+# AUT ITPM Learning Journal
 
-# ENSE880 Learning Journal – Agile Project Management (AUT)
+Learning journal and research notes for my Master of IT Project Management at Auckland University of Technology (AUT).
 
-This repo tracks my learning, reflections, and research prep for:
+## Programme
+
+- **Programme:** Master of IT Project Management, AUT (Feb 2026–Nov 2026)
+- **Location:** Auckland, New Zealand
+
+This repo brings together weekly learning logs, research skills, and paper‑specific notes.
+
+## Structure
+
+- `ense880-agile-project-management/`
+  - `journal/` – weekly logs of lectures, prep, and reflections for ENSE880.
+  - `research-skills/` – systems for reading papers, choosing projects, and taking notes.
+  - `resources/` – links to videos, articles, and tools relevant to this paper.
+- `<paper-code-2>/` – future papers (to be added).
+- `<paper-code-3>/` – future papers (to be added).
+
+## ENSE880 – Agile Project Management
 
 - **Paper:** ENSE880 – Agile Project Management  
 - **Lecturer:** Dr Ramesh Lal  
 - **Venue & Time:** WF611, Monday 11–1 PM  
-- **Programme:** Master of IT Project Management, AUT (Feb 2026–Nov 2026)
 
-## Structure
-
-- `journal/` – weekly logs of lectures, prep, and reflections.
-- `research-skills/` – systems for reading papers, choosing projects, and taking notes.
-- `resources/` – links to videos, articles, and tools.
-
-This is a personal learning log, not an official AUT resource.
+The first paper captured in this journal is ENSE880, focusing on agile and disciplined delivery, PMI process groups and knowledge areas, and why IT projects succeed or fail.
